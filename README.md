@@ -1,6 +1,8 @@
 # Spotify Clone 🎵
 
-**Live Demo:** [Click here to try the Spotify Clone](YOUR_LIVE_DEMO_URL)
+## 🌐 Live Demo
+
+[Click here to try the Spotify Clone](https://girish-slamani-03.github.io/Spotify-Clone/)
 
 A Spotify inspired music player built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of Spotify's web player with a dark themed interface, responsive layouts, dynamically generated song cards, and functional audio playback for the Trending Songs section.
 
@@ -47,7 +49,7 @@ P1.Spotify_Clone/
 1. Clone the repository:
 
    ```bash
-   https://github.com/girish-slamani-03/Spotify-Clone.git
+   git clone https://github.com/girish-slamani-03/Spotify-Clone.git
    ```
 
 2. Navigate to the project directory:
