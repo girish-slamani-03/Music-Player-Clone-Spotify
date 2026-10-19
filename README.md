@@ -4,13 +4,13 @@
 
 [**Click here to try the Spotify Clone**](https://girish-spotify-clone.netlify.app/)
 
-A Spotify-inspired music player built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of a music streaming web player with a dark-themed interface, responsive layouts, dynamically generated song cards, and functional audio playback for the Trending Songs section.
+A Spotify inspired music player built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of a music streaming web player with a dark themed interface, responsive layouts, dynamically generated song cards, and functional audio playback for the Trending Songs section.
 
 > **Note:** This is an unofficial student project created for educational purposes. It is not affiliated with, endorsed by, or connected to Spotify.
 
 ## ✨ Features
 
-- **Spotify-Inspired UI:** Dark-themed interface inspired by Spotify's web player.
+- **Spotify Inspired UI:** Dark themed interface inspired by Spotify's web player.
 - **Trending Songs:** Dynamically generated song cards using JavaScript.
 - **Audio Playback:** Play songs directly in the browser.
 - **Song Details Page:** View a selected song's cover image, title, artist information, and playback controls.
