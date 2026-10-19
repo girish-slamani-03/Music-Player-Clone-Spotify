@@ -51,13 +51,14 @@ Spotify-Clone/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/girish-slamani-03/Spotify_Clone.git
+   git clone https://github.com/girish-slamani-03/Spotify-Music-Player-Clone.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Spotify_Clone
+   cd Spotify-Music-Player-Clone
+
    ```
 
 3. Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.
