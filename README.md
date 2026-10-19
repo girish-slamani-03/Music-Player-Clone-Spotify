@@ -1,6 +1,6 @@
 # Spotify Clone 🎵
-<!-- 
-## 🌐 Live Demo
+
+<!-- ## 🌐 Live Demo
 
 [**Click here to try the Spotify Clone**](https://girish-spotify-clone.netlify.app/) -->
 
