@@ -1,8 +1,8 @@
 # Spotify Clone 🎵
-
+<!-- 
 ## 🌐 Live Demo
 
-[**Click here to try the Spotify Clone**](https://girish-spotify-clone.netlify.app/)
+[**Click here to try the Spotify Clone**](https://girish-spotify-clone.netlify.app/) -->
 
 A Spotify inspired music player built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of a music streaming web player with a dark themed interface, responsive layouts, dynamically generated song cards, and functional audio playback for the Trending Songs section.
 
@@ -57,7 +57,7 @@ Spotify-Clone/
 2. Navigate to the project directory:
 
    ```bash
-   cd Spotify-Clone
+   cd Spotify_Clone
    ```
 
 3. Open `index.html` in your browser, or use the Live Server extension in Visual Studio Code.

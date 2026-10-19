@@ -952,12 +952,17 @@ body {
 }
 
 .footerbox>.signup>.left div:first-child {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
 }
 
 .footerbox>.signup>.left div:nth-last-child(2) {
-    font-size: 14px;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footerbox>.signup>.left div:nth-last-child(1) {
+    font-size: 12px;
     font-weight: 400;
 }
 

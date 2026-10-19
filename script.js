@@ -313,7 +313,7 @@ function openSongPage(song) {
             <div class="line"></div>
 
             <div class="copyright">
-                © 2026 Spotify AB
+                © 2026 Girish Lamani • Educational Portfolio Project
             </div>
         </div>
     </div>
