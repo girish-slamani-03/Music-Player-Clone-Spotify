@@ -1,12 +1,13 @@
 # Spotify Clone 🎵
 
-<!-- ## 🌐 Live Demo
-
-[**Click here to try the Spotify Clone**](https://girish-spotify-clone.netlify.app/) -->
 
 A Spotify inspired music player built using **HTML, CSS, and JavaScript**. This project recreates the look and feel of a music streaming web player with a dark themed interface, responsive layouts, dynamically generated song cards, and functional audio playback for the Trending Songs section.
 
 > **Note:** This is an unofficial student project created for educational purposes. It is not affiliated with, endorsed by, or connected to Spotify.
+
+## 🌐 Live Demo
+
+[**Click here to try the Spotify Clone**](https://girish-spotify-music-player-clone.netlify.app)
 
 ## ✨ Features
 
