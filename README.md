@@ -7,7 +7,7 @@ A Spotify inspired music player built using **HTML, CSS, and JavaScript**. This 
 
 ## 🌐 Live Demo
 
-[**Click here to try the Spotify Clone**](https://girish-spotify-music-player-clone.netlify.app)
+[**Click here to try the Spotify Clone**](https://girish-music-player.netlify.app)
 
 ## ✨ Features
 
